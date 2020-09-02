@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/waterpoloJPG.JPG
+image: images/waterpolo.JPG
 title: European Youth Championships
 permalink: projects/EuropeanYouthChampionships
 # All dates must be YYYY-MM-DD format!
