@@ -14,10 +14,10 @@ summary: My team developed developed a plan to design Tiny Houses and make them 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/projectplanning.jpg">
+  <img class="ui image" src="../images/building.jpg">
+  <img class="ui image" src="../images/solar.jpg">
+  <img class="ui image" src="../images/sustainability.jpg">
 </div>
 
 In high school I took a class that focused on project development. One of the main projects in my senior year of high school was the development of Tiny Houses within a budget and to find a way to make them sustainable. The class project was divided up into three parts; brainstorming on the idea, writing a development plan for the idea, and eventually find a company that would want to collborate with us on our design. This project really showed me and my team what project development is like.
