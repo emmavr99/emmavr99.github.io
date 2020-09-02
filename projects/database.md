@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/database.jpg
 title: Building a database
 permalink: projects/database
 # All dates must be YYYY-MM-DD format!
