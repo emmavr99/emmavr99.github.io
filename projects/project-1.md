@@ -10,7 +10,7 @@ labels:
   - Project development
   - Sustainability
   - Teamwork
-summary: My team developed developed a plan to design Tiny Houses and make them sustainable.
+summary: My team developed a plan to design Tiny Houses and make them sustainable.
 ---
 
 <div class="ui small rounded images">
