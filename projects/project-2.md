@@ -3,9 +3,9 @@ layout: project
 type: project
 image: images/waterpolo.JPG
 title: European Youth Championships
-permalink: projects/EuropeanYouthChampionships
+permalink: projects/waterpolo
 # All dates must be YYYY-MM-DD format!
-date: 2018-9-1
+date: 2018-09-10
 labels:
   - Teamwork
   - Planning
