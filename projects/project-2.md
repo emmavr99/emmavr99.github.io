@@ -1,25 +1,21 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/waterpoloJPG.JPG
+title: European Youth Championships
+permalink: projects/EuropeanYouthChampionships
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-9-1
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Teamwork
+  - Planning
+  - Goal-oriented
+summary: In the summer of 2018 I played for the Dutch national youth team and we won bronze at the European Youth Championships for water polo.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+In the summer of 2018, I competed with the Dutch water polo national youth team at the European Youth Championships and we won a bronze medal. Although this is not a 'normal' project, I have learned a lot from this experience. In the summer of 2018 I have learned qualities that will help me for the rest of my life. I have learned how to work hard even when you are exhausted, how to work towards a certain goal, and how to keep your mind sane and cool under a lot of stress and pressure.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+I think that the qualities that I have learned will be beneficial to me for the rest of my life. In sports, all the emotions are heightened, but it is so important to be mentally strong and not to break under pressure. Performing at the highest stage in Europe has definitely made me mentally stronger and I have noticed and learned that I am now more calm in certain stressful situations. When there is a lot of pressure on a school project or test, it has definitely helped me that I can keep my head cool. This experience has made me perform better, in school, life and the pool.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Working towards a certain goal has definitely helped me in life as well. Being goal-oriented is really important when you are trying to meet certain deadlines and/or requirements. During the summer of 2018, we only had 1 goal: winning a medal. By setting goals early on, we know what we work for and what we work towards. It keeps picture in my head clear of what the end-result should look like. It has really made me work with a better focus on the goal of the task I am doing.
