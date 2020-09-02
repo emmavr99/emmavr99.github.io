@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/tinyhouse.jpg
+title: Tiny House development 
+permalink: projects/tinyhouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-02-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Project development
+  - Sustainability
+  - Teamwork
+summary: My team developed developed a plan to design Tiny Houses and make them sustainable.
 ---
 
 <div class="ui small rounded images">
@@ -20,25 +20,9 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+In high school I took a class that focused on project development. One of the main projects in my senior year of high school was the development of Tiny Houses within a budget and to find a way to make them sustainable. The class project was divided up into three parts; brainstorming on the idea, writing a development plan for the idea, and eventually find a company that would want to collborate with us on our design. This project really showed me and my team what project development is like.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+This project focused on building Tiny Houses that would be sustainable. It was our goal to develop a plan to build tiny houses that would use the least amount of resources possible. To make the Tiny Houses sustainable, we made use of green energy. In our development plan, we designed the Tiny Houses with solar pannels and (tiny) windmills that would provide enough enery for the house to have warm water, be able to cook, etc. 
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
-
+For this project, I was the contact person who was responsible for contacting companies and presenting them with our idea. I had to start contacting companies in the early phases of our project to make sure that we would have a company who would want to collaborate with us on our project by the time we would need it. I was the main person who wrote our the planning for the whole project. We had 3 months to finish this project and I was responsible for writing down a planning that would make sure we would finish the project before the deadline, but also to make sure there was enough room for error in our planning. Not everything goes as plannend in project development, so we had to make sure there was enough time and space in our planning for errors. Eventually, we did find a company and we finished our project in time.
 
