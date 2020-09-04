@@ -11,8 +11,6 @@ labels:
 ---
 
 
-## First introduction to Javascript
-
 Taking ICS 314 at UH Manoa has really made sure that I am going to have to get used to javascript. Before I took this class, I did not have much experience with javascript. I’d heard about it before, but I have never actually used the language before. Although I still do not have much experience at this point, I am sure that taking ICS 314 will really help me develop my javascript skills. I’ve completed the introduction exercises on FreeCodeCamp, and I must say, doing those exercises will be beneficial for everyone. If you are new, they will be really beneficial for you to quickly learn the intro to Javascript, and if you are already familiar with Javascript, it can never hurt to refresh your memory.
 
 ## Software engineering
