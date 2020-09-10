@@ -1,22 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Asking the smart questions
+title: How To Be Smart: Asking The Smart Questions Is Always The Smartest Option
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-10
 labels:
-  - Software Engineering
-  - Learning
+  - Smart questions
+  - Stack Overflow
 ---
 
-<img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
-
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
-
-<img class="ui tiny left circular floated image" src="../images/design-technology.jpg">
-
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
-
-<img class="ui tiny left circular floated image" src="../images/software-code.jpg">
-
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+To get a good, useful, smart answer to your question, you have to pose your question in a certain way. You can't expect someone to give you the answer you need when you've asked your question in a very poorly formatted way. It also does not help if you haven't researched the web before posing your question somewhere, as people usually tend to be more helpful towards question-askers who show that they have really made an effort to get their question answered, but they simply couldn't find an answer, yet. 
