@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Getting used to Javascript
+title: Getting Used To Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-02
 labels:
