@@ -26,7 +26,7 @@ By posing a question this way, it invites other users to help them out because t
 The answers definitely show that people are eager to help if a question is posed in a smart way. The highest up-voted reply is a very detailed answer to the question that is posed. 
 It gives good examples and explains it in ‘simple terms’ before explaining it in more complex terms. It is a smart answer to a smart question. 
 
-## Yes, stupid questions exist
+## Yes, Stupid Questions Exist
 I also found a [question](https://stackoverflow.com/questions/245062/whats-the-difference-between-javascript-and-java) that was not posed in the smart way, according to Raymond’s guidelines. This user posed the following question: “What’s the difference between JavaScript and Java?“. 
 In Raymond’s essay, one of the guidelines is that you have to show that you have done your research before asking your question. It appears that this user hasn’t. 
 The question is single-lined, there is no description of the work they have done to try and get the question answered, and they show no possible considered solutions to the question. 
