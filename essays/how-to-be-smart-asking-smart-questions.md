@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: How To Be Smart: Asking Smart Questions Is Always The Smartest Option
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2020-09-10
 labels:
   - Software Engineering
   - Learning
