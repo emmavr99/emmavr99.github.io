@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: How To Be Smart: Asking Questions The Smart Way is Always The Smartest Options
+title: How To Be Smart: Asking Questions The Smart Way is Always The Smartest Option
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-10
 labels:
