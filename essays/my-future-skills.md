@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: My future skills
+title: My Future Skills
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-03
 labels:
@@ -13,7 +13,7 @@ If you’ve read my other other essay, you know I am not familiar with software 
 
 ## Skills
 
-I really hope to develop good enough software engineering skills so that I can do all the things I named above. Assuming I do so, I would really like to gain a lot of experience building websites. I love design and technology, and building websites would really fit right up my alley. To make something look aesthetically pleasing and have it function perfectly, would really be something that I would be interested in. I’m also hoping to gain some skills and experience in building games. It’s not something I think I would want to do for a living, but for fun I think it would be really cool to be able to build games and develop things based on ideas you had in your head.
+I really hope to develop good enough software engineering skills so that I can do all the things I named above. Assuming I do so, I would really like to gain a lot of experience building websites. I love design and technology, and building websites would really fit right up my alley. To make something look aesthetically pleasing and have it function perfectly, would really be something that I would be interested in. I’m also hoping to gain some skills and experience in building games. It’s not something I think I would want to do for a living, but for fun I think it would be really cool to be able to build games and develop things based on ideas you had in your head. I am also really looking forward to being able to code quickly and efficiently. When I'll start looking for a job, it is necessary that I am able to type out some working code right then and there. I am really excited to be able to ace coding interviews!
 
 ## Aiming high
 
