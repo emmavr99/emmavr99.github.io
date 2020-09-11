@@ -18,9 +18,11 @@ In this essay, Raymond provides guidelines for effective interaction with the op
 ## Smart Questions
 For the purpose of this essay I have looked up a ‘smart question’ and a ‘stupid question’ on Stack Overflow. 
 We’ll start off with a [question](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) that is posed in the right way. The question is posed as the following: “Why is processing a sorted array faster than processing an unsorted array?” 
+### Posed the Right Way
 The user then provides a snippet of code that is relevant to their question, data that gives relevant information about the question, such as the times of the different processes. 
 Thus, the user gave all the relevant information to show what his question was about. However, this is not yet a perfect question, there is more to it. The user then shows that they have taken initiative in trying to solve the problem on their own, in this case by trying to run the code in a different coding language. 
 They provided the code to that as well, and they state that the question remains. They also state different possible causes of the problem that they have considered already, and the question still has not been solved. 
+### Perfect Example
 This question is a perfect example of a ‘smart question’: it is stated in a proper way, the user shows that they have done their research and tried to solve it on their own, and they suggest different causes that they have considered already. 
 By posing a question this way, it invites other users to help them out because they have shown that they really want to understand and solve their question, not just get someone else to do their work. 
 The answers definitely show that people are eager to help if a question is posed in a smart way. The highest up-voted reply is a very detailed answer to the question that is posed. 
@@ -28,8 +30,10 @@ It gives good examples and explains it in ‘simple terms’ before explaining i
 
 ## Yes, Stupid Questions Exist
 I also found a [question](https://stackoverflow.com/questions/245062/whats-the-difference-between-javascript-and-java) that was not posed in the smart way, according to Raymond’s guidelines. This user posed the following question: “What’s the difference between JavaScript and Java?“. 
+### Posed the wrong way
 In Raymond’s essay, one of the guidelines is that you have to show that you have done your research before asking your question. It appears that this user hasn’t. 
 The question is single-lined, there is no description of the work they have done to try and get the question answered, and they show no possible considered solutions to the question. 
+### Bad question
 This question is a clear example of someone who hasn’t put in any effort to get it solved. Everyone knows that you can google this question and browse the web for a little, and you’ll get an understanding of the difference between Javascript and Java. 
 If you still have a question then, you could pose a more detailed question about the certain subject that is still unclear to you. It is clearly shown in the answers that the users of Stack Overflow think that the question-poser should’ve done a little research before just jumping to asking questions. 
 The most up-voted reply is: “Java and Javascript are similar like Car and Carpet are similar.” This answer doesn’t answer the question at all, and most of the answers to this question are sarcastic like this one.
