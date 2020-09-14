@@ -7,7 +7,7 @@ date: 2020-09-02
 labels:
   - Javascript
   - Newbie
-  - Gaining experience
+  - New experiences
 ---
 
 
