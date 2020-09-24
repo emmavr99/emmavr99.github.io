@@ -26,3 +26,7 @@ Another major advantage of coding according to coding standards is that other pe
 ### More learning
 This also makes it easier to ask for and receive help when you are stuck. If you are stuck, it is very helpful that your code is readable and understandable for someone else to look over it. Coding standards definitely make sure that it is, and so another person can look at your code, understand it, and hopefully see what goes wrong and where. This also leads to being able to learn quicker and better, because it makes you learn from your mistakes and that is the best way to learn! 
 
+## Conclusion
+
+I really think that coding standards are very helpful to help you become a good coder. Yes, they do tell you where to put spaces, curly braces, and all those other things, but that does so much more that just making your code look good. It helps you understand the language in a deeper way and it provides you with a very organized way to learn the language. By coding according to certain coding standards, your code is more universally understandable which makes it easier to collaborate with other people, or ask for help when you are stuck. Both of these things lead to you learning more about the language and becoming a better coder! Thus, coding standards are definitely very useful. 
+
