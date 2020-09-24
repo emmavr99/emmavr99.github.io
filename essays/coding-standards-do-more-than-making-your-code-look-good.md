@@ -23,5 +23,6 @@ I’ve been using ESLint with IntelliJ for about a week now, and so far I really
 ## Easier to collaborate 
 
 Another major advantage of coding according to coding standards is that other people who also code according to those coding standards can easily read and/or use your code. It makes the code a more universal language among the people who also adhere to the same standards. By doing this, it is easier to collaborate with other people, because they can very easily understand your code, because they are coding the same way. 
+### More learning
 This also makes it easier to ask for and receive help when you are stuck. If you are stuck, it is very helpful that your code is readable and understandable for someone else to look over it. Coding standards definitely make sure that it is, and so another person can look at your code, understand it, and hopefully see what goes wrong and where. This also leads to being able to learn quicker and better, because it makes you learn from your mistakes and that is the best way to learn! 
 
