@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Design Patterns Are Very Efficient
+title: Design Patterns are Very Efficient
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-03
 labels:
@@ -9,11 +9,11 @@ labels:
   - Javascript
   - Final Project
 ---
-Before taking the software engineering course ICS 314 at the University of Hawaii at Manoa, I was not familiar with any of the concepts of software engineering, those concepts including design patterns. In this class, I’ve learned about many of the concepts of software engineering, and now that we are actually building an application ourselves, design patterns seems a very important concept to be aware of.
+Before taking the software engineering course ICS 314 at the University of Hawaii at Manoa, I was not familiar with any of the concepts of software engineering, those concepts including design patterns. In this class, I’ve learned about many of the concepts of software engineering, and now that we are actually building an application ourselves, design patterns seem a very important concept to be aware of.
 
-## Design Patters Make You More Efficient
+## Design Patters Make Your Code More Efficient
 
-Often when you are coding, you will have certain problems that repeat themselves. While it may work to not use any design patterns in your code, this is not the most efficient way to do it. It will take a long time to figure everything out. Design patter are there to help you out! Design patters are the core of the solutions, in an abstract way, of those problems that keep occuring over and over again. By using design patterns, you can use this abstract solution to those probolems over and over again, and thus code way more efficiently. By making use of design patterns, you set yourself up to code in a more professional way.
+Often when you are coding, you will have certain problems that repeat themselves. While it may work to not use any design patterns in your code, this is not the most efficient way to do it. It will take a long time to figure everything out. Design patterns are there to help you out! Design patterns are the an abstract core of the solutions to those problems that keep occuring over and over again. By using design patterns, you can use this abstract solution to those probolems over and over again, and thus code way more efficiently. By making use of design patterns, you set yourself up to code in a more professional way.
 
 ## Helping Out Newbies
 
