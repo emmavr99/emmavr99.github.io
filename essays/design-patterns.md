@@ -19,11 +19,13 @@ Often when you are coding, you will have certain problems that repeat themselves
 
 When I was first introduced to Javascript in a software engineering course, I was very overwhelmed. I saw real products that software engineers made, and wondered how I would ever get to that point. As I am writing this, we are at the end of the semester and currently working on the final project for this class, in which we have to build a functional website.
 At the beginning of the semester, as I read through the schedule, this project really stressed me out. I knew, at that point, that I didn't have any knowledge yet for this project. I was anxious as to how we were supposed to learn all those skills in a couple of months. Well, here we are at the end of the semester, currently working on the final project, and it has been going good so far. A huge help in this have been design patterns.
+### Products Build by Experts
 These solutions, design patterns, that have been found by the experts after running into problems over and over again, help us newbies create professional websites or products. The experts that have created these design patters allow us newbies to create products seem like they were build by experts.
 
 ## Publish-Subscribe Design Pattern
 
 The design pattern that has stood out to me the most, and that we are using a lot in our final project, is the Publish-Subscribe (also known as pub/sub) design pattern. This desgin pattern is very useful for exchanging messages between the publisher and the subscriber. The Publish-Subscribe design pattern is a messaging pattern where publishers, the senders of messages, categorize messages into classes without knowledge of which subscribes, if any, there may be.
+### Usage in Final Project
 In our final project, we make use of this pattern because we have items on our site that can be edited and the details can be changed. By using the Publish-Subscribe pattern, we can very easily implement that everyone who wants to know about the state of the item, and thus the parts where the item is displayed, will get updated if the item has been changed.
 
 ## Many More Powerful Design Patterns
