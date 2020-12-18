@@ -22,13 +22,13 @@ The code for Manoa Bazaar can be found at our github repository called [Manoa Ba
 
 ## My contribution to the project 
 I was responsible for the code for the categories page and then each respective category. There were five categories that we divided the items up in. The categories page displayed each of those categories. Each category, when selected, will take the user to the respective category. In that category then only the items that belong to that category will be displayed. The categories page looked like this:
-<img src="images/categories.png">
+![categories](images/categories.png)
 
 To get each category to just display the items that belong in that category, I had to work with filtering items out of the collection that we subscribed to. That was really fun to learn and figure out. The page for each respective category displays just the items for that category:
-<img src="images/kitchenitems.png">
+![kitchenitems](images/kitchenitems.png)
 
 When the user then presses the view item button, the user will be taken to a page where there is more information about the offered item available.
-<img src="images/viewitem.png">
+![viewitem](images/viewitem.png)
 
 To get the view item page to work, I had to work with docIDs. In tbe beginning, I was pretty confused by this. After doing some research and watching some videos on this, it all made sense and it is really good to use to display information about just that one item. 
 I also helped my teammates with any other issues that they might have with their parts of the code. 
