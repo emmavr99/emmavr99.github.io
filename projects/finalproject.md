@@ -25,10 +25,10 @@ I was responsible for the code for the categories page and then each respective 
 <img class="ui image" src="{{ site.baseurl }}/images/categories.png">
 
 To get each category to just display the items that belong in that category, I had to work with filtering items out of the collection that we subscribed to. That was really fun to learn and figure out. The page for each respective category displays just the items for that category:
-![kitchenitems](images/kitchenitems.png)
+<img class="ui image" src="{{ site.baseurl }}/images/kitchenitems.png">
 
 When the user then presses the view item button, the user will be taken to a page where there is more information about the offered item available.
-![viewitem](images/viewitem.png)
+<img class="ui image" src="{{ site.baseurl }}/images/viewitem.png">
 
 To get the view item page to work, I had to work with docIDs. In tbe beginning, I was pretty confused by this. After doing some research and watching some videos on this, it all made sense and it is really good to use to display information about just that one item. 
 I also helped my teammates with any other issues that they might have with their parts of the code. 
