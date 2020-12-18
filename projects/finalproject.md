@@ -22,7 +22,7 @@ The code for Manoa Bazaar can be found at our github repository called [Manoa Ba
 
 ## My contribution to the project 
 I was responsible for the code for the categories page and then each respective category. There were five categories that we divided the items up in. The categories page displayed each of those categories. Each category, when selected, will take the user to the respective category. In that category then only the items that belong to that category will be displayed. The categories page looked like this:
-![categories](images/categories.png)
+<img class="ui image" src="{{ site.baseurl }}/images/categories.png">
 
 To get each category to just display the items that belong in that category, I had to work with filtering items out of the collection that we subscribed to. That was really fun to learn and figure out. The page for each respective category displays just the items for that category:
 ![kitchenitems](images/kitchenitems.png)
