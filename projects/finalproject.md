@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/manoa-bazaar.jpg
+image: images/manoa-bazaar.png
 title: Final Project of ICS 314, Creating a Web Application
 permalink: projects/finalproject
 # All dates must be YYYY-MM-DD format!
