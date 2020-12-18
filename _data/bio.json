@@ -51,7 +51,11 @@
       "keywords": [
         "C",
         "C++",
-        "Javascript"
+        "Javascript",
+        "HTML/CSS",
+        "Meteor",
+        "Semantic UI",
+        "React.js",
       ]
     },
     {
@@ -61,6 +65,7 @@
         "MacOS",
         "Git/GitHub",
         "Unix",
+        "IntelliJ IDEA",
       ]
     }
   ],
