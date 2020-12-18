@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: Coding Standards Do More Than Making Your Code Look Good
+title: Software Engineering Is More Than Just Web Application Development
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-23
+date: 2020-12-18
 labels:
   - Software engineering
   - Functional programming
